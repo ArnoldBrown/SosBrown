@@ -1,0 +1,10 @@
+export const LOGIN_REQ = 'LOGIN_REQ';
+export const LOGIN_RESPONSE = 'LOGIN_SUCCESS';
+
+export const LOGIN_USERNAME = 'USERNAME_SUCCESS';
+
+export const REGISTRATION_REQ = 'REGISTRATION_REQ';
+export const REGISTRATION_RESPONSE = 'REGISTRATION_SUCCESS';
+
+export const LOGOUT_REQ="LOGOUT_REQ"
+export const LOG_OUT = 'LOG_OUT';
